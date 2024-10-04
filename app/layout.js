@@ -1,6 +1,9 @@
 import localFont from "next/font/local";
 import "./globals.css";
 
+console.log('[LOG] layout.js');
+console.error('[ERROR] layout.js');
+
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
   variable: "--font-geist-sans",
