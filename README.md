@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-`pnpm dlx  create-next-app@latest test-nextjs-logging --js --no-tailwind --eslint --app --no-src-dir --import-alias --use-pnpm`
+```bash
+pnpm dlx  create-next-app@latest test-nextjs-logging --js --no-tailwind --eslint --app --no-src-dir --import-alias --use-pnpm`
+```
 
 ## Getting Started
 
